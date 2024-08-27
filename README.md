@@ -11,7 +11,7 @@ The app provides options to download the analysis results in Excel format, with 
 
 ## Installation
 ### Clone the repository:
-- git clone https://github.com/jeffenyinnah/financial-statement-analyzer-viz.git
+- git clone [https://github.com/jeffenyinnah/financial-statement-analyzer-viz.git](https://github.com/jeffenyinnah/financial-statement-analyzer-viz.git)
 - cd financial-statement-analyzer-viz
 
 ### Install the required packages:
